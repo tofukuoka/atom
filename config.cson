@@ -1,0 +1,15 @@
+"*":
+  core:
+    disabledPackages: [
+      "spell-check"
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "0c1bfa39-ee35-4255-b596-9ce92489e4cd"
