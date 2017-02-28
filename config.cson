@@ -4,6 +4,16 @@
       "spell-check"
       "wrap-guide"
     ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "*.o"
+    ]
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
@@ -13,3 +23,5 @@
     fontSize: 15
   "exception-reporting":
     userId: "0c1bfa39-ee35-4255-b596-9ce92489e4cd"
+  "tree-view":
+    hideIgnoredNames: true
